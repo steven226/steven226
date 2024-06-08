@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">A passionate backend developer from Mexico</h3>
+<h3 align="center">A passionate software test from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steven226&label=Profile%20views&color=0e75b6&style=flat" alt="steven226" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML, JavaScript, PHP**
+- 💬 Ask me about **C/C++, JavaScript, PHP**
 
 - 📫 How to reach me **sluevano928@gmail.com**
 
